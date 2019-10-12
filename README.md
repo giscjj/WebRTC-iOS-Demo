@@ -1,3 +1,3 @@
 # WebRTC-iOS-Demo
 最新谷歌官方demo。
-The latest demo of WebRTC from Google.
+AppRTC - iOS implementation of the Google WebRTC Demo.
